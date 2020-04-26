@@ -1,2 +1,2 @@
 # structureProject
-manage data and form of code
+manage data 
